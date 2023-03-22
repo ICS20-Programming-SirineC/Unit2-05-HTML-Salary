@@ -1,0 +1,18 @@
+/* Created by: Sirine Cherkaoui
+* Created on: Mar 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-05-HTML-Salary
+*/
+
+body {
+  background-color: #BFF8FA;
+  text-align: center;
+}
+
+h1 {
+  background-color: #FABFD8;
+  text-align: center;
+  padding: 40px;
+}
+
+
